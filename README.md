@@ -13,3 +13,4 @@ Hello World!<br>CS AI Student focused on building ML projects
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedfahadlal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mohamedfahadlal)
