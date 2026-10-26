@@ -15,7 +15,7 @@ Hello World!<br>CS AI Student focused on building ML projects
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mohamedfahadlal)
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
